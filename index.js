@@ -4,7 +4,16 @@ System.register(["./application.js"], function (_export, _context) {
   var Application, canvas, $p, bcr, application;
 
   function topLevelImport(url) {
+<<<<<<< Updated upstream
     console.log("hieu pro jkshdkajhdkj");
+=======
+
+    console.log("huhu");
+    console.log("huhu22");
+    console.log("huhu333");
+    console.log("huhu333");
+
+>>>>>>> Stashed changes
 
     return System["import"](url);
   }
