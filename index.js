@@ -6,6 +6,7 @@ System.register(["./application.js"], function (_export, _context) {
   function topLevelImport(url) {
 
     console.log("huhu");
+    console.log("huhu22");
 
 
     return System["import"](url);
