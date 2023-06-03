@@ -6,6 +6,7 @@ System.register(["./application.js"], function (_export, _context) {
   function topLevelImport(url) {
     console.log("asdds");
     console.log("Hieu");
+    console.log("hieu pro");
     return System["import"](url);
   }
 
