@@ -4,9 +4,11 @@ System.register(["./application.js"], function (_export, _context) {
   var Application, canvas, $p, bcr, application;
 
   function topLevelImport(url) {
-
-    console.log("huhu");
-
+    console.log("aklsjdlkasjdljalksjdlkajlksdjkla");
+    console.log("amen");
+    console.log("amen");
+    console.log("amen");
+    console.log("amen");
 
     return System["import"](url);
   }
